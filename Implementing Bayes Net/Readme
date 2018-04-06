@@ -1,0 +1,4 @@
+In this project, you will implement inference algorithms for Bayes Nets, specifically variable elimination
+and value-of-perfect-information computations. These inference algorithms will allow you to reason
+about the existence of invisible pellets and ghosts.The code for this homework contains the following
+files, available as a zip archive attached to the same post on piazza as this document.
